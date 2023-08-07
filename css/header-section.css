@@ -19,7 +19,6 @@
 .logo {
     color: #f9faf8;
     font-size: 24px;
-    font-family: sans-serif;
     font-weight: 600;
 }
 
@@ -35,7 +34,6 @@
     list-style-type: none;
     color: #e5e7eb;
     font-size: 18px;
-    font-family: sans-serif;
 }
 
 .header-links a {
@@ -65,7 +63,6 @@
     font-size: 48px;
     font-weight: extra-bold;
     color: #f9faf8;
-    font-family: sans-serif;
 }
 
 .subtext {
@@ -82,7 +79,6 @@
     width: 8em;
     border: none;
     border-radius: .5em;
-    font-family: sans-serif;
     font-size: 1em;
 }
 
