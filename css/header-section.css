@@ -32,12 +32,12 @@
     padding: 0;
     gap: 1em;
     list-style-type: none;
-    color: #e5e7eb;
     font-size: 18px;
 }
 
 .header-links a {
     text-decoration: none;
+    color: #e5e7eb;
 }
 
 .header-content {
@@ -71,6 +71,7 @@
 
 .header-sign-up {
     display: flex;
+    text-decoration: none;
     justify-content: center;
     padding: .5em 1em;
     background-color: #3882f6;
