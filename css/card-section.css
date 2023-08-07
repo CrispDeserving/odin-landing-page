@@ -1,0 +1,41 @@
+.card-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 80vh;
+    gap: 5vh;
+}
+
+.card-section-header {
+    height: 10vh;
+    font-size: 3em;
+    margin: 1em;    
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+    width: 300px;
+}
+
+.card-picture {
+    flex: initial;
+    width: 250px;
+    height: 250px;
+    border: 5px solid rgb(73, 73, 255);
+    border-radius: 1em;
+}
+
+.card-subtext {
+    text-align: center;
+    font-size: 1em;
+}
