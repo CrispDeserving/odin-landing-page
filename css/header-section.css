@@ -13,7 +13,7 @@
     align-items: center;
     width: 80vw;
     height: 5vh;
-    padding: 1em;
+    padding: 2em;
 }
 
 .logo {
@@ -42,12 +42,11 @@
 
 .header-content {
     display: flex;
+    flex: 1;
     justify-content: center;
     align-items: center;
-    justify-content: space-around;
     width: 80vw;
     height: 60vh;
-    align-content: flex-start;
     gap: 5vw;
 }
 
