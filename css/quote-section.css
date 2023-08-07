@@ -1,0 +1,25 @@
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    gap: .5em;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    width: 60vw;
+    color: #1f2937; 
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.person {
+    margin: 1em;
+    text-align: right;
+    width: 60vw;
+    font-weight: bold;
+}
