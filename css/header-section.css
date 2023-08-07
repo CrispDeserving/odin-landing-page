@@ -61,7 +61,7 @@
 
 .title {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: bolder;
     color: #f9faf8;
 }
 
@@ -74,7 +74,7 @@
     display: flex;
     justify-content: center;
     padding: .5em 1em;
-    background-color: blue;
+    background-color: #3882f6;
     color: white;
     width: 8em;
     border: none;
