@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: auto;
+    height: 10vh;
+    width: 100vw;
+    color: white;
+    background-color: #1f2937;
+}
+
+.cross-out-text {
+    text-decoration: line-through;
+    padding: .25em;
+}
