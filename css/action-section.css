@@ -1,0 +1,41 @@
+.action-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+}
+
+.action-popup {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80vw;
+    height: 20vh;
+    border-radius: .5em;
+    background-color: #3882f6;
+}
+
+.action-content {
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    width: 50vw;
+}
+
+.action-title {
+    font-size: 1.5em;
+    color: white;
+    font-weight: bold;
+}
+
+.action-subtext {
+    color: white;
+}
+
+.action-sign-up {
+    color: white;
+    border: 2px solid white;
+    background-color: #3882f6;
+    border-radius: .5em;
+    padding: .5em 2em;
+}
